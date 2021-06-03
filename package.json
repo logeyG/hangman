@@ -1,0 +1,14 @@
+{
+  "name": "medium-hangman",
+  "version": "1.0.0",
+  "description": "Challenge for Medium",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "logeyG",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
